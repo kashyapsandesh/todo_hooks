@@ -1,0 +1,21 @@
+.input{
+   padding: 10px;
+   border-radius: 10px;
+}
+.btn-add{
+    padding: 10px;
+    margin: 10px;
+    background-color: teal;
+    border-radius: 10px;
+    color: aliceblue;
+    border: none;
+    box-shadow: 0.5rem;
+    
+    
+}
+.container{
+     background-color: blueviolet;
+     height: 400px;
+     width: 400px;
+     margin-left: 500px;
+}
